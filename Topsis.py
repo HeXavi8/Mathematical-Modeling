@@ -3,7 +3,8 @@ import pandas as pd
 
 #TOPSIS
 def Topsis(A1):
-    W0=[0.2,0.3,0.4,0.1] #weight matrix 
+    W0=[0.1,0.5,0.2,0.2] #weight matrix 0.1+0.5+0.2+0.2=1
+    #tip:the first column is the "name",so weight 0.2 multiply to the second column "x1" and so on 
     W=np.ones([A1.shape[1],A1.shape[1]],float)
     for i in range(len(W)):
         for j in range(len(W)):
@@ -31,14 +32,14 @@ def Topsis(A1):
             Smax=np.sqrt(np.sum(np.square(Z[i,:]-Zmax[0,:])))
             Smin=np.sqrt(np.sum(np.square(Z[i,:]-Zmin[0,:])))
             C.append(Smin/(Smax+Smin))
-    C=pd.DataFrame(C,index=['school' + i for i in list('12345')])   
+    C=pd.DataFrame(C,index=['name' + i for i in list('abcde')])   
     return C
 
 #Standardized treatment
 def standard(A):
     #Effectiveness indicators
     A1=np.ones([A.shape[0],A.shape[1]],float)
-    for i in range(A.shape[1]):
+    for i in range(A.shape[1]):#i represents the number of the column，0 indicates "x1"
         if i==0 or i==2:
             if max(A[:,i])==min(A[:,i]):
                 A1[:,i]=1
@@ -56,7 +57,8 @@ def standard(A):
 
     #Interval type indicators
         else:
-            a,b,lb,ub=5,6,2,12
+            a,b,lb,ub=5,6,2,12#Let the index value in the interval [a,b] be the best
+            #The worst lower limit is lb, the worst upper limit is ub.
             for j in range(A.shape[0]):
                 if lb <= A[j,i] < a:
                     A1[j,i]=(A[j,i]-lb)/(a-lb)
@@ -68,16 +70,15 @@ def standard(A):
                     A1[j,i]=0	
     return A1
 
-#The initial matrix is read and computed
+#Read and compute the initial matrix
 def data(file_path):
     data=pd.read_excel(file_path).values
-    A=data[:,1:]#calculate from the second column 
+    A=data[:,1:]#Begin to calculate from the second column "x1"
     A=np.array(A)
-    #m,n=A.shape[0],A.shape[1] #M is the number of rows and N is the number of columns
     return A
 
 #weight
-A=data('topsis.xlsx')
+A=data('topsis.xlsx')#The path and the name of the file
 A1=standard(A)
 C=Topsis(A1)
 print(C)
