@@ -1,9 +1,13 @@
 # MathematicalModeling
+
 A sharing of the learning process of mathematical modeling
+
 ---
+
 ## 1.AHP
 
 ---
+
 ## 2.Topsis
 
 reference:
@@ -18,15 +22,16 @@ Topsis法 的缺点：
 1.需要的每个指标的数据，对应的量化指标选取会有一定难度
 2.不确定指标的选取个数为多少适宜，才能够去很好刻画指标的影响力度
 3.必须有两个以上的研究对象才可以进行使用
-Advantages of TOPSIS method:
-1.It avoids the subjectivity of the data, does not need the objective function, does not need to pass the test, and can well describe the comprehensive impact of multiple impact indicators
-2.There is no strict restriction on the data distribution, sample size and the number of indicators. It is flexible and convenient for both small sample data and large system with multiple evaluation units and multiple indicators
-Disadvantages of TOPSIS method:
-1.As for the required data of each index, it will be somewhat difficult to select the corresponding quantitative index
-2.Only by selecting the appropriate number of uncertain indicators can we describe the influence of indicators well
-3.There must be more than two research objects before it can be used
+Advantages of TOPSIS method:<br/>
+1.It avoids the subjectivity of the data, does not need the objective function, does not need to pass the test, and can well describe the comprehensive impact of multiple impact indicators<br/>
+2.There is no strict restriction on the data distribution, sample size and the number of indicators. It is flexible and convenient for both small sample data and large system with multiple evaluation units and multiple indicators<br/>
+Disadvantages of TOPSIS method:<br/>
+1.As for the required data of each index, it will be somewhat difficult to select the corresponding quantitative index<br/>
+2.Only by selecting the appropriate number of uncertain indicators can we describe the influence of indicators well<br/>
+3.There must be more than two research objects before it can be used<br/>
 
 ---
+
 ## 3.秩和比综合分析法Rank-sum ratio(RSR)
 
 reference:
