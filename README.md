@@ -1,13 +1,13 @@
 # MathematicalModeling
 A sharing of the learning process of mathematical modeling
 
-1.AHP
+##1.AHP
 
 
-2.Topsis
+##2.Topsis
 
 
-3.秩和比综合分析法Rank-sum ratio(RSR)
+##3.秩和比综合分析法Rank-sum ratio(RSR)
 
 参考资料reference:
 https://zhuanlan.zhihu.com/p/38209882
