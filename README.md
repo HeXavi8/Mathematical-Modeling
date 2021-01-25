@@ -8,7 +8,6 @@ A sharing of the learning process of mathematical modeling
 
 
 3.秩和比综合分析法Rank-sum ratio(RSR)
-
 参考资料reference:
 https://zhuanlan.zhihu.com/p/38209882
 https://baike.baidu.com/item/%E7%A7%A9%E5%92%8C%E6%AF%94%E6%B3%95/2805901#1
