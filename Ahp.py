@@ -87,7 +87,7 @@ if __name__ == '__main__':
 
     b = [b1, b2, b3, b4, b5]
     a = AHP(criteria, b).run()
-    #运算结果中如果CR中出现负数，是由于运算结果非常小，运算过程中存在浮点误差
+    #If a negative number appears in CR in the calculation result, it is because the calculation result is very small, and there is a floating point error in the calculation process
 
 
 # In[ ]:
