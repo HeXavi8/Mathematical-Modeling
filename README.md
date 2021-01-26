@@ -7,7 +7,7 @@ A sharing of the learning process of mathematical modeling
 ## 1.AHP
 
 
-## 2.Topsis
+## 2.优劣解距离法Topsis
 
 ### what:
 The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) is a multi-criteria decision analysis method, which was originally developed by Ching-Lai Hwang and Yoon in 1981 with further developments by Yoon in 1987, and Hwang, Lai and Liu in 1993. TOPSIS is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution (PIS) and the longest geometric distance from the negative ideal solution (NIS).
@@ -34,7 +34,7 @@ Disadvantages of TOPSIS method:<br/>
 ### how:
 The code has been written in Topsis.py and topsis.xlsx is the data file. Please download them both if you wanna try out.<br/>
 
-reference:<br/>
+references:<br/>
 https://en.wikipedia.org/wiki/TOPSIS<br/>
 https://www.it610.com/article/1293378434029920256.htm<br/>
 https://blog.csdn.net/weixin_41799019/article/details/97611462<br/>
@@ -71,7 +71,25 @@ The disadvantages of Rank-sum ratio(RSR)<br/>
 ### how:
 The code has been written in Rank-sum ratio(RSR).py .<br/>
 
-reference:<br/>
+references:<br/>
 https://baike.baidu.com/item/%E7%A7%A9%E5%92%8C%E6%AF%94%E6%B3%95/2805901?fr=aladdin<br/>
 https://zhuanlan.zhihu.com/p/38209882<br/>
 https://baike.baidu.com/item/%E7%A7%A9%E5%92%8C%E6%AF%94%E6%B3%95/2805901#1<br/>
+
+## 4.熵权法the entropy weight method(EWM) 
+
+### what:
+Entropy weight method (EWM) is a commonly used weighting method that measures value dispersion in decision-making. The greater the degree of dispersion, the greater the degree of differentiation, and more information can be derived. Meanwhile, higher weight should be given to the index, and vice versa.<br/>
+
+### why:
+The advantages of Entropy weight method (EWM)<br/>
+1. the biggest advantage of the EWM is theavoidance of the interference of human factors on the weightof indicators, thus enhancing the objectivity of the com-prehensive evaluation results. Therefore, the EWM hasbeen widely used in decision-making in recent years.
+
+The disadvantages of Entropy weight method (EWM)<br/>
+1. EWM only considered the numerical discrimination degree andignored the rank discrimination degree of the index. 
+
+references:<br/>
+https://www.hindawi.com/journals/mpe/2020/3564835/<br/>
+https://www.researchgate.net/publication/340232284_Effectiveness_of_Entropy_Weight_Method_in_Decision-Making
+https://www.zhihu.com/question/357680646/answer/943628631</br>
+https://www.bilibili.com/video/bv1qt4y1276a<br/>
