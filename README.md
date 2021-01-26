@@ -57,7 +57,7 @@ Rank-sum ratio(RSR)法 的优点：<br/>
 4. 通过移植、嫁接。利用求得的秩和比值，可以四通八达。本法在量化研究中占有重要位置，粗中有细，细中有粗，相互对照，规律、特征自然明，是做比较、找关系的有效手段。<br/>
 
 Rank-sum ratio(RSR)法 的缺点：<br/>
-但是秩和比评价法的缺点是排序的主要依据是利用原始数据的秩次，最终算得的RSR值反映的是综合秩次的差距，而与原始数据的顺位间的差距程度大小无关，这样在指标转化为秩次是会失去一些原始数据的信息，如原始数据的大小差别等。
+1. 排序的主要依据是利用原始数据的秩次，最终算得的RSR值反映的是综合秩次的差距，而与原始数据的顺位间的差距程度大小无关，这样在指标转化为秩次是会失去一些原始数据的信息，如原始数据的大小差别等。
 
 The advantages of Rank-sum ratio(RSR)<br/>
 1. The rank sum ratio is a new statistic, a carrier of compound information, with large capacity and strong plasticity.<br/>
@@ -66,7 +66,7 @@ The advantages of Rank-sum ratio(RSR)<br/>
 4. Through transplantation and grafting. Using the obtained rank sum ratio, you can reach in all directions. This method occupies an important position in quantitative research. There are details in roughness and roughness in fineness. The rules and characteristics are natural and clear. It is an effective means for comparison and finding relationships.<br/>
 
 The disadvantages of Rank-sum ratio(RSR)<br/>
-However, the disadvantage of the rank-sum ratio evaluation method is that the main basis for ranking is the rank of the original data. The final calculated RSR value reflects the difference in the overall rank, and has nothing to do with the degree of the difference between the original data. When the indicator is converted to rank, some information of the original data will be lost, such as the size difference of the original data.<br/>
+1. The disadvantage of the rank-sum ratio evaluation method is that the main basis for ranking is the rank of the original data. The final calculated RSR value reflects the difference in the overall rank, and has nothing to do with the degree of the difference between the original data. When the indicator is converted to rank, some information of the original data will be lost, such as the size difference of the original data.<br/>
 
 ### how:
 The code has been written in Rank-sum ratio(RSR).py .<br/>
