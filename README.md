@@ -88,8 +88,12 @@ The advantages of Entropy weight method (EWM)<br/>
 The disadvantages of Entropy weight method (EWM)<br/>
 1. EWM only considered the numerical discrimination degree andignored the rank discrimination degree of the index. 
 
+### how:
+The code has been written in EWM.py and the test data is in ewm.csv.<br/>
+
 references:<br/>
 https://www.hindawi.com/journals/mpe/2020/3564835/<br/>
 https://www.researchgate.net/publication/340232284_Effectiveness_of_Entropy_Weight_Method_in_Decision-Making
+https://baike.baidu.com/item/%E7%86%B5%E6%9D%83%E6%B3%95/5616693?fr=aladdin
 https://www.zhihu.com/question/357680646/answer/943628631</br>
 https://www.bilibili.com/video/bv1qt4y1276a<br/>
