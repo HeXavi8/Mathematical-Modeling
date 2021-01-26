@@ -1,4 +1,4 @@
-## 4.熵权法the entropy weight method(EWM) 
+## 熵权法the entropy weight method(EWM) 
 
 ### what:
 Entropy weight method (EWM) is a commonly used weighting method that measures value dispersion in decision-making. The greater the degree of dispersion, the greater the degree of differentiation, and more information can be derived. Meanwhile, higher weight should be given to the index, and vice versa.<br/>
