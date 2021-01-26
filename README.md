@@ -55,13 +55,16 @@ Rank-sum ratio(RSR)法 的优点：<br/>
 2. 秩和比法是一种全新的广谱的实用数量方法，或称统计信息方法，集参数统计与非参数统计于一身，有描述、有推断，能提高统计分析与再分析的水平，满足人们在统计研究与统计管理中的种种需求，因此，我们说秩和比法是数量方法的创新，有着极为宽广的发展前景。<br/>
 3. 秩和比法的关键步骤是秩代换，具有强大的统计信息功能，针对性强，柔韧性大，操作简便，应用价值高。<br/>
 4. 通过移植、嫁接。利用求得的秩和比值，可以四通八达。本法在量化研究中占有重要位置，粗中有细，细中有粗，相互对照，规律、特征自然明，是做比较、找关系的有效手段。<br/>
+
 Rank-sum ratio(RSR)法 的缺点：<br/>
 但是秩和比评价法的缺点是排序的主要依据是利用原始数据的秩次，最终算得的RSR值反映的是综合秩次的差距，而与原始数据的顺位间的差距程度大小无关，这样在指标转化为秩次是会失去一些原始数据的信息，如原始数据的大小差别等。
+
 The advantages of Rank-sum ratio(RSR)<br/>
 1. The rank sum ratio is a new statistic, a carrier of compound information, with large capacity and strong plasticity.<br/>
 2. The rank-sum ratio method is a new broad-spectrum practical quantitative method, or statistical information method, which integrates parametric statistics and non-parametric statistics. It has description and inference. It can improve the level of statistical analysis and re-analysis and satisfy people. There are various demands in statistical research and statistical management. Therefore, we say that the rank-sum ratio method is an innovation of quantitative methods and has extremely broad development prospects.<br/>
 3. The key step of the rank-sum ratio method is rank substitution, which has powerful statistical information functions, strong pertinence, flexibility, simple operation and high application value.<br/>
 4. Through transplantation and grafting. Using the obtained rank sum ratio, you can reach in all directions. This method occupies an important position in quantitative research. There are details in roughness and roughness in fineness. The rules and characteristics are natural and clear. It is an effective means for comparison and finding relationships.<br/>
+
 The disadvantages of Rank-sum ratio(RSR)<br/>
 However, the disadvantage of the rank-sum ratio evaluation method is that the main basis for ranking is the rank of the original data. The final calculated RSR value reflects the difference in the overall rank, and has nothing to do with the degree of the difference between the original data. When the indicator is converted to rank, some information of the original data will be lost, such as the size difference of the original data.<br/>
 
