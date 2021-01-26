@@ -4,7 +4,7 @@ A sharing of the learning process of mathematical modeling
 
 ---
 
-## 1.AHP
+## 1.层次分析法Analytic Hierarchy Process(AHP)
 
 ### what:
 Analytic hierarchy process (AHP) is a decision analysis method which combines qualitative and quantitative methods to solve multi-objective complex problems. This method combines quantitative analysis with qualitative analysis, uses the experience of decision-makers to judge the relative importance of the standards to measure whether the objectives can be achieved or not, and reasonably gives the weight of each standard of each decision-making scheme, and uses the weight to calculate the priority of each scheme, which is more effectively applied to those problems that are difficult to be solved by quantitative methods.
@@ -41,7 +41,7 @@ https://baike.baidu.com/item/%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%B3%95/1672?
 https://blog.csdn.net/mmm_jsw/article/details/84863416<br/>
 
 
-## 2.优劣解距离法Topsis
+## 2.优劣解距离法Technique for Order Preference by Similarity to an Ideal Solution(Topsis)
 
 ### what:
 The Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) is a multi-criteria decision analysis method, which was originally developed by Ching-Lai Hwang and Yoon in 1981 with further developments by Yoon in 1987, and Hwang, Lai and Liu in 1993. TOPSIS is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution (PIS) and the longest geometric distance from the negative ideal solution (NIS).
