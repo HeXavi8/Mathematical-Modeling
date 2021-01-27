@@ -11,7 +11,7 @@ Disadvantages of MC :<br/>
 As in the case of applying MCS, Markov analysis requires great care during the model building phase since model accuracy is all-important in obtaining valid results. The assumptions implicit in Markov models that are associated with memorilessness and the Exponential distribution to represent times to failure and repair provide additional constraints to those within MCS. Markov models can therefore become somewhat contrived if these implicit assumptions do not reflect sufficiently well the characteristics of a system and how it functions in practice. In order to gain the benefits of speed and accuracy that it can offer, Markov analysis depends to a greater extent on the experience and judgement of the modeller than MCS. Also, whilst MCS is a safer and more flexible approach, it does not always offer the speed and accuracy that may be required in particular system studies.<br/>
 
 ### how:
-The code has been written in MC.py. Please download them both if you wanna try out.<br/>
+The code has been written in MC.py.<br/>
 ![avatar](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Markov%20Chain(MC)/MC.jpg)
 
 references:<br/>
