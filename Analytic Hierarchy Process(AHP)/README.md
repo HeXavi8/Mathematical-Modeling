@@ -18,7 +18,7 @@ Disadvantages of AHP method:<br/>
 ### how:
 The code has been written in AHP.py.<br/>
 
-reference:<br/>
+references:<br/>
 https://zhuanlan.zhihu.com/p/101505929?utm_source=wechat_session<br/>
 https://baike.baidu.com/item/%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%B3%95/1672?fr=aladdin<br/>
 https://blog.csdn.net/mmm_jsw/article/details/84863416<br/>
