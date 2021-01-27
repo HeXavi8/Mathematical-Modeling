@@ -15,7 +15,7 @@ Disadvantages of MCM :<br/>
 3. Solutions are not exact, but depend on the number of repeated runs used to produce the output statistics. That is, all outputs are estimates. <br/>
 
 ### how:
-The code has been written in MCM for PI.py which is to estimate the value of PI. And the MCM for function.py is to calculate the ratio of the area under the curve to the area of the square of y=x * x from 0.0 to 1.0 of x.<br/>
+The code has been written in MCMforPI.py which is to estimate the value of PI. And the MCMforFunction.py is to calculate the ratio of the area under the curve to the area of the square of y=x * x from 0.0 to 1.0 of x.<br/>
 
 references:<br/>
 https://en.wikipedia.org/wiki/Monte_Carlo_method<br/>
