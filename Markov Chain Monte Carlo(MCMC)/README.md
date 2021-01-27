@@ -1,12 +1,12 @@
 ## 马尔科夫链蒙特卡洛方法Markov chain Monte Carlo(MCMC)
 
 ### What:
-In statistics, Markov chain Monte Carlo (MCMC) methods comprise a class of algorithms for sampling from a probability distribution. By constructing a Markov chain that has the desired distribution as its equilibrium distribution, one can obtain a sample of the desired distribution by recording states from the chain. The more steps are included, the more closely the distribution of the sample matches the actual desired distribution. Various algorithms exist for constructing chains, including the Metropolis–Hastings algorithm.<br/>
+In statistics, Markov chain Monte Carlo (MCMC) methods comprise a class of algorithms for sampling from a probability distribution. By constructing a Markov chain that has the desired distribution as its equilibrium distribution, one can obtain a sample of the desired distribution by recording states from the chain. The more steps are included, the more closely the distribution of the sample matches the actual desired distribution. Various algorithms exist for constructing chains, including the **Metropolis–Hastings algorithm** and **Gibbs Sampling**.<br/>
 
 ### Why:
-Advantages of MCMC method:<br/>
+Advantages of Metropolis–Hastings algorithm:<br/>
 
-Disadvantages of MCMC method:<br/>
+Disadvantages of Metropolis–Hastings algorithm:<br/>
 
 
 ### How:
