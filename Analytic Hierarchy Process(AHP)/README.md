@@ -27,7 +27,7 @@ Disadvantages of AHP method:<br/>
 4. AHP method needs to find the eigenvalues of matrix. For some ill conditioned matrices, the eigenvalues will have systematic error <br/>
 
 ### how:
-The code has been written in AHP.py. Please download them both if you wanna try out.<br/>
+The code has been written in AHP.py.<br/>
 
 reference:<br/>
 https://zhuanlan.zhihu.com/p/101505929?utm_source=wechat_session<br/>
