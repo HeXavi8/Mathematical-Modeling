@@ -15,4 +15,4 @@ A sharing of the learning process of mathematical modeling
 
 [6.蒙特卡洛算法Monte Carlo methods(MCM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Monte%20Carlo%20method(MCM))
 
-[7.马尔科夫蒙特卡洛Markov Chain Monte Carlo(MCMC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain%20Monte%20Carlo(MCMC))
+[7.马尔科夫链蒙特卡洛方法Markov Chain Monte Carlo(MCMC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain%20Monte%20Carlo(MCMC))
