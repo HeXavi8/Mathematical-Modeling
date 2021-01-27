@@ -19,3 +19,9 @@ https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98<b
 https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/<br/>
 https://link.springer.com/article/10.3758/s13423-016-1015-8<br/>
 https://www.cnblogs.com/sddai/p/6144674.html<br/>
+
+
+### Tips:<br/>
+We highly recommended you to refer these two references if you would like to know more details about MCMC.<br/>
+https://www.cs.cmu.edu/~epxing/Class/10708-15/notes/10708_scribe_lecture17.pdf<br/>
+https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98<br/>
