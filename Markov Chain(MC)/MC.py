@@ -1,4 +1,4 @@
-#The situation and possibility of translation are showed in MC.img
+#The situation and possibility of translation are showed in MC.jpg
 
 n = 5  # Calculate the situation after 5 minutes or hours or days or months or years
 v = (1, 0, 0, 0)  # the situation at 0 minutes or hours or days or months or years
