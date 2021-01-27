@@ -12,8 +12,9 @@ As in the case of applying MCS, Markov analysis requires great care during the m
 
 ### how:
 The code has been written in MC.py. Please download them both if you wanna try out.<br/>
+![avatar](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Markov%20Chain(MC)/MC.jpg)
 
-reference:<br/>
+references:<br/>
 https://brilliant.org/wiki/markov-chains/<br/>
 https://egertonconsulting.com/markov-analysis-brief-introduction/?doing_wp_cron=1611713777.6825981140136718750000
 https://www.zhihu.com/question/26665048/answer/551925518<br/>
