@@ -14,6 +14,8 @@ Disadvantages of SA:</br>
 2. Long execution time</br>
 3. The performance of the algorithm is related to the initial value and parameter sensitivity</br>
 
-# When
-
 # How
+
+# Rerences
+https://blog.csdn.net/weixin_40562999/article/details/80853354
+https://www.cnblogs.com/heaad/archive/2010/12/20/1911614.html
