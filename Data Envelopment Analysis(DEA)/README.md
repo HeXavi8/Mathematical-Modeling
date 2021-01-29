@@ -1,4 +1,4 @@
-## Data Envelopment Analysis(DEA)
+## 数据包络分析Data Envelopment Analysis(DEA)
 
 ### What
 By explicitly considering the use of multiple inputs (i.e. resources) and the generation of multiple outputs (i.e. services), linear programming method is used to compare the efficiency of multiple service units providing similar services. This technology is called data envelopment analysis (DEA)
