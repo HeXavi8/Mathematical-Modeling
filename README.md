@@ -16,3 +16,7 @@ A sharing of the learning process of mathematical modeling
 [6.蒙特卡洛算法Monte Carlo methods(MCM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Monte%20Carlo%20method(MCM))
 
 [7.马尔科夫链蒙特卡洛方法Markov Chain Monte Carlo(MCMC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain%20Monte%20Carlo(MCMC))
+
+[8.模拟退火法Simulated annealing(SA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Simulated%20annealing(SA))
+
+[9.数据包络分析Data Envelopment Analysis(DEA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Data%20Envelopment%20Analysis(DEA)/README.md)
