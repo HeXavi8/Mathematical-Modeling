@@ -15,6 +15,7 @@ Disadvantages of SA:</br>
 3. The performance of the algorithm is related to the initial value and parameter sensitivity</br>
 
 # How
+The pseudocode was written in SA.txt
 
 # Rerences
 https://blog.csdn.net/weixin_40562999/article/details/80853354
