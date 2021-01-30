@@ -24,5 +24,6 @@ DEAP2.1:
 Link: https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k 
 
 ### References
-https://wenku.baidu.com/view/c57733afd1d233d4b14e852458fb770bf68a3b5a.html
+https://en.wikipedia.org/wiki/Data_envelopment_analysis</br>
+https://wenku.baidu.com/view/c57733afd1d233d4b14e852458fb770bf68a3b5a.html</br>
 https://www.bilibili.com/video/av49055922/
