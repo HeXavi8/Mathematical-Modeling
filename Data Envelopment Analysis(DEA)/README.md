@@ -20,8 +20,11 @@ Disadvantages of DEA:</br>
 ### How
 We can use DEA analysis tools, such as deap
 
-DEAP2.1:
-Link: https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k 
+DEAP2.1:</br>
+Link: https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k</br>
+or</br>
+python:</br>
+https://github.com/araith/pyDEA</br>
 
 ### References
 https://en.wikipedia.org/wiki/Data_envelopment_analysis</br>
