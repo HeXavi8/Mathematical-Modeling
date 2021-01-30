@@ -1,7 +1,7 @@
 ## 数据包络分析Data Envelopment Analysis(DEA)
 
 ### What
-By explicitly considering the use of multiple inputs (i.e. resources) and the generation of multiple outputs (i.e. services), linear programming method is used to compare the efficiency of multiple service units providing similar services. This technology is called data envelopment analysis (DEA)
+Data envelopment analysis (DEA) is a nonparametric method in operations research and economics for the estimation of production frontiers. It is used to empirically measure productive efficiency of decision making units (DMUs). Although DEA has a strong link to production theory in economics, the tool is also used for benchmarking in operations management, where a set of measures is selected to benchmark the performance of manufacturing and service operations. In benchmarking, the efficient DMUs, as defined by DEA, may not necessarily form a “production frontier”, but rather lead to a “best-practice frontier” (Charnes A., W. W. Cooper and E. Rhodes (1978)).</br>
 
 ### Why
 Advantages of DEA:</br>
@@ -25,5 +25,4 @@ Link: https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k
 
 ### References
 https://wenku.baidu.com/view/c57733afd1d233d4b14e852458fb770bf68a3b5a.html
-
 https://www.bilibili.com/video/av49055922/
