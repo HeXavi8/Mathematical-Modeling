@@ -21,7 +21,7 @@ Disadvantages of DEA:</br>
 We can use DEA analysis tools, such as deap
 
 DEAP2.1:</br>
-Link: https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k</br>
+https://pan.baidu.com/s/1EF63m3TP1rGkZ9yTX4BeLg code: bu4k</br>
 python:</br>
 https://github.com/araith/pyDEA</br>
 
