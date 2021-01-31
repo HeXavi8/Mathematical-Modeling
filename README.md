@@ -22,3 +22,5 @@ A sharing of the learning process of mathematical modeling
 [9.数据包络分析Data Envelopment Analysis(DEA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Data%20Envelopment%20Analysis(DEA))
 
 [10.时间序列分析Time series analysis(TSA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Time%20series%20analysis(TSA))
+
+[11.小波分析Wavelet analysis(WA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Wavelet%20analysis(WA))
