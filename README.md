@@ -19,4 +19,6 @@ A sharing of the learning process of mathematical modeling
 
 [8.模拟退火法Simulated annealing(SA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Simulated%20annealing(SA))
 
-[9.数据包络分析Data Envelopment Analysis(DEA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Data%20Envelopment%20Analysis(DEA)/README.md)
+[9.数据包络分析Data Envelopment Analysis(DEA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Data%20Envelopment%20Analysis(DEA))
+
+[10.时间序列分析Time series analysis(TSA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Time%20series%20analysis(TSA))
