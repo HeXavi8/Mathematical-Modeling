@@ -18,7 +18,7 @@ The disadvantages of WA:
 ### How:
 A sample of wavelet transform has been written in wavelet_transform.py.<br/>
 Some types of wavelets have been written in Some_types_of_wavelets.py.<br/>
-If you would like to know more about the details and code, you can refer to this website https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/<br/>
+If you would like to know more about the details and code, please refer to this website https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/<br/>
 
 ### References:
 https://en.wikipedia.org/wiki/Wavelets<br/>
