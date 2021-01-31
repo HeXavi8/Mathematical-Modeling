@@ -27,7 +27,7 @@ https://www.cnblogs.com/sddai/p/6144674.html<br/>
 https://zhuanlan.zhihu.com/p/37121528
 
 ### Tips:<br/>
-We highly recommend you to refer these references if you would like to know more details about MCMC.<br/>
+We highly recommend you to refer to these references if you would like to know more details about MCMC.<br/>
 https://www.cs.cmu.edu/~epxing/Class/10708-15/notes/10708_scribe_lecture17.pdf<br/>
 https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98<br/>
 https://github.com/Joseph94m/MCMC/blob/master/MCMC.ipynb<br/>
