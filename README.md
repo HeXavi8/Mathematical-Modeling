@@ -4,7 +4,7 @@ A sharing of the learning process of mathematical modeling
 
 ## Some tools
 [LaTeX](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/LaTeX) is a writing tool which may help you write professional-looking documents that include complex math expressions or non-Latin scripts. <br/>
-[SPSS](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/SPSS) is a software which is used for statistical analysis operations, data mining, predictive analysis and decision-making. It may help you edit and analyze all sorts of data more easily.
+[SPSS](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/SPSS) is a software which is used for statistical analysis operations, data mining, predictive analysis and decision-making. It may help you edit and analyze many sorts of data more easily.
 
 ## Some commonly used algorithms and models.
 
