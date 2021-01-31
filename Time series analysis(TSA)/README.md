@@ -25,4 +25,5 @@ Or if you would like to know more about how to implement this model by using pyt
 https://en.wikipedia.org/wiki/Time_series<br/>
 https://www.quora.com/What-is-time-series-analysis-What-are-its-advantages-and-disadvantages<br/>
 https://www.machinelearningplus.com/time-series/time-series-analysis-python/<br/>
+https://www.bilibili.com/video/BV12T4y1u7L3<br/>
 
