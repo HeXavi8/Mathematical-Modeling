@@ -29,6 +29,8 @@ Disadvantages of Latex:<br/>
 You may download it from this website https://www.latex-project.org/get/.<br/>
 Or you may also use an online LaTeX editor https://www.overleaf.com/project.<br/>
 There is a demo in LaTeX2e Template for MCM-ICM Submissions.<br/>
+https://www.tablesgenerator.com/latex_tables is a website which can help you create LaTeX tables.<br/>
+https://www.codecogs.com/latex/eqneditor.php this may help you write the mathematical formulas.<br/>
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/LaTeX<br/>
