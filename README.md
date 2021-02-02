@@ -31,3 +31,5 @@ A sharing of the learning process of mathematical modeling
 [11.小波分析Wavelet analysis(WA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Wavelet%20analysis(WA))
 
 [12.BP神经网络Backpropagation Neural Network(BPNN)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Backpropagation%20Neural%20Network(BPNN))
+
+[13.逻辑回归Logistic regression(LR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Logistic%20regression(LR))
