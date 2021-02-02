@@ -20,10 +20,11 @@ Disadvantages of BPNN:<br/>
 3. A multilayer neural network requires many repeated presentations of the input patterns, for which the weights need to be adjusted before the network is able to settle down into an optimal solution.
 
 ### How:
-The code has been written in BPNN.py.<br/>
+A sample has been written in BPNN.py.<br/>
 
 ### References:<br/>
 https://link.springer.com/chapter/10.1007/978-3-642-30223-7_87<br/>
 https://www.quora.com/What-are-the-advantages-and-disadvantages-of-training-artificial-neural-nets-via-back-propagation-a-probabilistic-hill-climbing-algorithm-a-combination-of-the-two-and-other-methods-if-they-exist<br/>
 https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/<br/>
 https://www.guru99.com/backpropogation-neural-network.html<br/>
+https://www.zhihu.com/column/p/26010889<br/>
