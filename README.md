@@ -29,3 +29,5 @@ A sharing of the learning process of mathematical modeling
 [10.时间序列分析Time series analysis(TSA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Time%20series%20analysis(TSA))
 
 [11.小波分析Wavelet analysis(WA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Wavelet%20analysis(WA))
+
+[12.BP神经网络Backpropagation Neural Network(BPNN)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Backpropagation%20Neural%20Network(BPNN))
