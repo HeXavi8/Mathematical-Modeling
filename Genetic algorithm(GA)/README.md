@@ -20,7 +20,7 @@ Disadvantages of GA:<br/>
 4. No guarantee of convergence to the optimal solution if not implemented properly
 
 ### How:
-Please refer to these two website if you would like to know how to implement:<br/>
+Please refer to these two websites if you would like to know how to implement the algorithm:<br/>
 https://github.com/ahmedfgad/GeneticAlgorithmPython<br/>
 https://github.com/yanshengjia/artificial-intelligence/tree/master/genetic-algorithm-for-functional-maximum-problem<br/>
 
