@@ -33,3 +33,5 @@ A sharing of the learning process of mathematical modeling
 [12.BP神经网络Backpropagation Neural Network(BPNN)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Backpropagation%20Neural%20Network(BPNN))
 
 [13.逻辑回归Logistic regression(LR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Logistic%20regression(LR))
+
+[14.遗传算法Genetic algorithm(GA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Genetic%20algorithm(GA))
