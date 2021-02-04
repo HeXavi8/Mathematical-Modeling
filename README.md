@@ -35,6 +35,9 @@ A sharing of the learning process of mathematical modeling
 * [逻辑回归Logistic regression(LR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Logistic%20regression(LR))
 ### Regression models
 * [最小二乘法Least squares(LS)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Least%20squares(LS))
+### Graph models
+* [戴克斯特拉算法Dijkstra's algorithm(DA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Dijkstra's%20algorithm(DA)/README.md)
+
 ### Others
 * [马尔科夫链蒙特卡洛方法Markov Chain Monte Carlo(MCMC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain%20Monte%20Carlo(MCMC))
 
