@@ -11,7 +11,7 @@ The disadvantages of EWM:<br/>
 EWM only considered the numerical discrimination degree andignored the rank discrimination degree of the index. <br/>
 
 ### How:
-The code has been written in EWM.py and the test data is in ewm.csv.<br/>
+The code had been written in EWM.py and the test data is in ewm.csv.<br/>
 
 ### References:<br/>
 https://www.hindawi.com/journals/mpe/2020/3564835/<br/>

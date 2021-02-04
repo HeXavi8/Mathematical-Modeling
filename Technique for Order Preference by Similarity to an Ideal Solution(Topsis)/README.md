@@ -14,7 +14,7 @@ Disadvantages of TOPSIS:<br/>
 3. There must be more than two research objects before it can be used<br/>
 
 ### How:
-The code has been written in Topsis.py and topsis.xlsx is the data file. Please download them both if you wanna try out.<br/>
+The code had been written in Topsis.py and topsis.xlsx is the data file. Please download them both if you wanna try out.<br/>
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/TOPSIS<br/>

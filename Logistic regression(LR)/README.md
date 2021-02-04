@@ -26,7 +26,7 @@ Disadvantages of LR:<br/>
 8. In Linear Regression independent and dependent variables are related linearly. But Logistic Regression needs that independent variables are linearly related to the log odds (log(p/(1-p)).
 
 ### How:
-A sample has been written in LR.py.<br/>
+A sample had been written in LR.py.<br/>
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/Logistic_regression<br/>

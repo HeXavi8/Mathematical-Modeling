@@ -16,8 +16,8 @@ Disadvantages of WA:
 2. For signals whose properties are stable over time, the ideal tool for processing is still Fourier analysis.
 
 ### How:
-A sample of wavelet transform has been written in wavelet_transform.py.<br/>
-Some types of wavelets have been written in Some_types_of_wavelets.py.<br/>
+A sample of wavelet transform had been written in wavelet_transform.py.<br/>
+Some types of wavelets had been written in Some_types_of_wavelets.py.<br/>
 If you would like to know more about the details and code, please refer to this website https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/<br/>
 
 ### References:

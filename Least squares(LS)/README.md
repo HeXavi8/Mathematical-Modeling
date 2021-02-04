@@ -17,7 +17,7 @@ Disadvantages of LS:<br/>
 3. Tendency to overfit data (LASSO or Ridge Regression might be advantageous)
 
 ### How:
-The code has been written in LS.py.
+The code had been written in LS.py.
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/Least_squares<br/>

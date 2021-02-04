@@ -15,7 +15,7 @@ Disadvantages of RSR:<br/>
 1. The disadvantage of the rank-sum ratio evaluation method is that the main basis for ranking is the rank of the original data. The final calculated RSR value reflects the difference in the overall rank, and has nothing to do with the degree of the difference between the original data. When the indicator is converted to rank, some information of the original data will be lost, such as the size difference of the original data.<br/>
 
 ### How:
-The code has been written in Rank-sum ratio(RSR).py .<br/>
+The code had been written in Rank-sum ratio(RSR).py .<br/>
 
 ### References:
 https://baike.baidu.com/item/%E7%A7%A9%E5%92%8C%E6%AF%94%E6%B3%95/2805901?fr=aladdin<br/>

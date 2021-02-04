@@ -18,7 +18,7 @@ This is hard stuff, and if you’re not motivated by challenge, you can get over
 
 ### How:
 You can simply just anlysis the data in this website https://spssau.com/index.html<br/>
-Or if you would like to know more about how to implement this model by using python. You can refer to this https://github.com/aarshayj/analytics_vidhya/blob/master/Articles/Time_Series_Analysis/Time_Series_AirPassenger.ipynb<br/>
+Or if you would like to know more about how to implement this model by using python. Please refer to this https://github.com/aarshayj/analytics_vidhya/blob/master/Articles/Time_Series_Analysis/Time_Series_AirPassenger.ipynb<br/>
 
 ### References:
 https://en.wikipedia.org/wiki/Time_series<br/>

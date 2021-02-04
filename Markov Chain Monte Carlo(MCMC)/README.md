@@ -13,7 +13,7 @@ Disadvantages of Gibbs sampling:<br/>
 However, the major drawback is that when variables have strong dependencies it is hard to move around. We can introduce auxiliary variables to help move around when such high dimensional variables are correlated.<br/>
 
 ### How:
-The code has been written in Metropolis–Hastings.py and Gibbs_Sampling.py.<br/>
+The code had been written in Metropolis–Hastings.py and Gibbs_Sampling.py.<br/>
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo<br/>
