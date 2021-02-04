@@ -17,7 +17,7 @@ consuming a lot of time waste of necessary resources.
 and most often cannot obtain the right shortest path.
 ### How:
 A sample had been written in DA.py.<br/>
-
+![avatar](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Dijkstra's%20algorithm(DA)/Dijkstra.jpeg)
 ### References:
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm<br/>
 https://blog.csdn.net/johnjim0/article/details/109156772<br/>
