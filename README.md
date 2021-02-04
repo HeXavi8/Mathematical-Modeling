@@ -35,3 +35,5 @@ A sharing of the learning process of mathematical modeling
 [13.逻辑回归Logistic regression(LR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Logistic%20regression(LR))
 
 [14.遗传算法Genetic algorithm(GA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Genetic%20algorithm(GA))
+
+[15.方差分析Analysis of variance (ANOVA)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Analysis%20of%20variance(ANOVA))
