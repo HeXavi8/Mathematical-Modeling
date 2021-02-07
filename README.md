@@ -14,7 +14,7 @@ A sharing of the learning process of mathematical modeling
 
 * [秩和比综合分析法Rank-sum ratio(RSR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Rank-sum%20ratio(RSR))
 
-* [熵权法The entropy weight method(EWM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain(MC))
+* [熵权法The entropy weight method(EWM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/The%20entropy%20weight%20method(EWM))
 ### Predictive models
 * [马尔科夫链Markov Chain(MC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain(MC))
 
