@@ -1,6 +1,6 @@
 # Mathematical-Modeling
 
-A sharing of the learning process of mathematical modeling
+A sharing of the learning process of mathematical modeling.
 
 ## Some tools
 * [LaTeX](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/LaTeX) is a writing tool which may help you write professional-looking documents that include complex math expressions or non-Latin scripts. <br/>
