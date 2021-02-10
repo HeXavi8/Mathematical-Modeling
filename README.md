@@ -7,7 +7,7 @@ A sharing of the learning process of mathematical modeling.
 * [SPSS](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/SPSS) is a software which is used for statistical analysis operations, data mining, predictive analysis and decision-making. It may help you edit and analyse many sorts of data more easily.
 
 ## Some problems and papers.
-*[2020 MCM-ICM Problems](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/2021_MCM-ICM_Problems)
+* [2020 MCM-ICM Problems](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/2021_MCM-ICM_Problems)
 * [Outstanding Papers of MCM-ICM](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Outstanding_Papers_of_MCM-ICM) 
 ## Some commonly used algorithms and models.
 ### Evaluation models
