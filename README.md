@@ -6,6 +6,9 @@ A sharing of the learning process of mathematical modeling.
 * [LaTeX](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/LaTeX) is a writing tool which may help you write professional-looking documents that include complex math expressions or non-Latin scripts. <br/>
 * [SPSS](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/SPSS) is a software which is used for statistical analysis operations, data mining, predictive analysis and decision-making. It may help you edit and analyse many sorts of data more easily.
 
+## Some problems and papers.
+*[2020 MCM-ICM Problems](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/2021_MCM-ICM_Problems)
+* [Outstanding Papers of MCM-ICM](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Outstanding_Papers_of_MCM-ICM) 
 ## Some commonly used algorithms and models.
 ### Evaluation models
 * [层次分析法Analytic Hierarchy Process(AHP)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Analytic%20Hierarchy%20Process(AHP))
@@ -36,7 +39,7 @@ A sharing of the learning process of mathematical modeling.
 ### Regression models
 * [最小二乘法Least squares(LS)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Least%20squares(LS))
 ### Graph models
-* [戴克斯特拉算法Dijkstra's algorithm(DA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Dijkstra's%20algorithm(DA)/README.md)
+* [戴克斯特拉算法Dijkstra's algorithm(DA)](https://github.com/HeXavi8/Mathematical-Modeling/blob/main/Dijkstra's_algorithm(DA))
 
 ### Others
 * [马尔科夫链蒙特卡洛方法Markov Chain Monte Carlo(MCMC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov%20Chain%20Monte%20Carlo(MCMC))
