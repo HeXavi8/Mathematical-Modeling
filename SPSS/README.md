@@ -16,7 +16,7 @@ Disadvantages of SPSS:<br/>
 
 ### How:
 You may download it from IBM official website https://www.ibm.com/analytics/spss-statistics-software.<br/>
-Or you may also use some online SSPS website to edit and analyse the data https://spssau.com/index.html.<br/>
+Or you may also use some online SSPS websites to edit and analyse the data https://spssau.com/index.html.<br/>
 
 ### References:<br/>
 https://en.wikipedia.org/wiki/SPSS<br/>
