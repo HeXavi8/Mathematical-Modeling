@@ -8,7 +8,7 @@ A sharing of the learning process of mathematical modeling.
 
 ## Some problems and papers.
 * [2020 MCM-ICM Problems](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/2021_MCM-ICM_Problems)
-* [Outstanding Papers of MCM-ICM](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Outstanding_Papers_of_MCM-ICM) 
+* [The Outstanding Papers of MCM-ICM in 2019 and 2020](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Outstanding_Papers_of_MCM-ICM) 
 ## Some commonly used algorithms and models.
 ### Evaluation models
 * [层次分析法Analytic Hierarchy Process(AHP)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Analytic_Hierarchy_Process(AHP))
