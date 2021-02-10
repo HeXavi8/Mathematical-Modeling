@@ -13,7 +13,7 @@ A sharing of the learning process of mathematical modeling.
 ### Evaluation models
 * [层次分析法Analytic Hierarchy Process(AHP)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Analytic_Hierarchy_Process(AHP))
 
-* [优劣解距离法Technique for Order Preference by Similarity to an Ideal Solution(TOPSIS)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Technique_for_Order_Preference_by Similarity_to_an_Ideal_Solution(Topsis))
+* [优劣解距离法Technique for Order Preference by Similarity to an Ideal Solution(TOPSIS)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Technique_for_Order_Preference_by_Similarity_to_an_Ideal_Solution(Topsis))
 
 * [秩和比综合分析法Rank-sum ratio(RSR)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Rank-sum_ratio(RSR))
 
