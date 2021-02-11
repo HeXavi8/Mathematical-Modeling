@@ -1,6 +1,6 @@
 # Mathematical-Modeling
 
-A sharing of the learning process of mathematical modeling.
+A sharing of the learning process of mathematical modeling.<br/>
 数学建模常用工具模型算法分享。
 
 ## Some tools
