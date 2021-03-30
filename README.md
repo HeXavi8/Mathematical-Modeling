@@ -20,7 +20,7 @@ A sharing of the learning process of mathematical modeling.<br/>
 
 * [熵权法The entropy weight method(EWM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/The_entropy_weight_method(EWM))
 ### Predictive models
-* [马尔科夫链Markov Chain(MC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov_Chain(MC)))
+* [马尔科夫链Markov Chain(MC)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Markov_Chain(MC))
 
 * [蒙特卡洛算法Monte Carlo methods(MCM)](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Monte_Carlo_method(MCM))
 
