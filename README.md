@@ -4,7 +4,7 @@ A sharing of the learning process of mathematical modeling.<br/>
 数学建模常用工具模型算法分享。
 
 ## Our papers.
-We were luckly designated as the Meritorious Winner in 2021 MCM-ICM. Here are [our pape and codes.](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Our_Paper) 
+We were luckly designated as the Meritorious Winner in 2021 MCM-ICM. Here are [our paper and codes.](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Our_Paper) 
 
 ## Some tools
 * [LaTeX](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/LaTeX) is a writing tool which may help you write professional-looking documents that include complex math expressions or non-Latin scripts. <br/>
