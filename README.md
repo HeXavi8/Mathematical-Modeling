@@ -3,6 +3,9 @@
 A sharing of the learning process of mathematical modeling.<br/>
 数学建模常用工具模型算法分享。
 
+## Our papers.
+We were luckly designated as the Meritorious Winner in 2021 MCM-ICM. Here are [our paper and codes in python](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Our_Paper) 
+
 ## Some tools
 * [LaTeX](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/LaTeX) is a writing tool which may help you write professional-looking documents that include complex math expressions or non-Latin scripts. <br/>
 * [SPSS](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/SPSS) is a software which is used for statistical analysis operations, data mining, predictive analysis and decision-making. It may help you edit and analyze many sorts of data more easily.
@@ -10,9 +13,6 @@ A sharing of the learning process of mathematical modeling.<br/>
 ## Some problems and papers.
 * [The Problems of MCM-ICM in 2021](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/2021_MCM-ICM_Problems)
 * [The Outstanding Papers of MCM-ICM in 2019 and 2020](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Outstanding_Papers_of_MCM-ICM) 
-
-## Our papers.
-We were luckly designated as the Meritorious Winner in 2021 MCM-ICM. Here are our paper and codes * [Paper](https://github.com/HeXavi8/Mathematical-Modeling/tree/main/Our_paper) 
 
 ## Some commonly used algorithms and models.
 ### Evaluation models
