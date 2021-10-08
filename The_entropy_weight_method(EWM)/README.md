@@ -5,7 +5,7 @@ Entropy weight method (EWM) is a commonly used weighting method that measures va
 
 ### Why:
 The advantages of EWM:<br/>
-the biggest advantage of the EWM is theavoidance of the interference of human factors on the weightof indicators, thus enhancing the objectivity of the com-prehensive evaluation results. Therefore, the EWM hasbeen widely used in decision-making in recent years.<br/>
+The biggest advantage of the EWM is the avoidance of the interference of human factors on the weight of indicators, thus enhancing the objectivity of the com-prehensive evaluation results. Therefore, the EWM has been widely used in decision-making in recent years.<br/>
 
 The disadvantages of EWM:<br/>
 EWM only considered the numerical discrimination degree andignored the rank discrimination degree of the index. <br/>
